@@ -1,7 +1,0 @@
-#!D:\program\python\pycharm\crawler_bilibili\venv\Scripts\python.exe
-
-import warnings
-warnings.simplefilter('default', DeprecationWarning)
-
-from logilab.common.pytest import run
-run()
